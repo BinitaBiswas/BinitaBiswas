@@ -22,7 +22,7 @@ B.Tech CSE Graduate | Aspiring Software Developer | Passionate about Web Develop
 - 🌱 Currently learning React.js and Backend Development
 - 💻 Interested in Full Stack Web Development
 - 🚀 I enjoy building real-world projects and continuously improving my technical skills.
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **binitabiswas412@gmail.com**
 
 ---
 
@@ -117,15 +117,15 @@ Explore all my repositories here:
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href=//https://linkedin.com/in/contactbinitabiswas>
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:your-binitabiswas412@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/username=BinitaBiswas">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
