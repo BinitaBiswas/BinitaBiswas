@@ -1,191 +1,180 @@
-<h1 align="center">Hi 👋, I'm Binita Biswas</h1>
-
-<h3 align="center">
-B.Tech CSE Graduate | Aspiring Software Developer | Passionate about Web Development
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+I'm+Binita+Biswas;Aspiring+Software+Developer;Python+%7C+SQL+%7C+JavaScript;HTML+%7C+CSS+%7C+React;Open+to+Software+Developer+Roles" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Binita%20Biswas&fontSize=55&fontAlignY=35&animation=twinkling&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
+</p>
+# 👋 Hi, I'm Binita Biswas
+
+### 👩‍💻 Software Developer | Full Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;MERN+Stack+Developer;Building+Real-World+Projects;Always+Learning+New+Technologies"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=BinitaBiswas&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+I'm a Computer Science & Engineering graduate from India, passionate about building
+real-world web applications and continuously improving my development skills.
+
+I enjoy turning ideas into practical, user-friendly applications and learning
+new technologies along the way.
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 B.Tech Graduate in Computer Science & Engineering
 - 🇮🇳 Based in India
-- 💼 Looking for Software Developer opportunities
+- 💼 Looking for Software Developer / Full Stack Developer opportunities
 - 🌱 Currently learning React.js and Backend Development
 - 💻 Interested in Full Stack Web Development
-- 🚀 I enjoy building real-world projects and continuously improving my technical skills.
-- 📫 Reach me at: **binitabiswas412@gmail.com**
+- 🚀 Passionate about building real-world projects
+- 🧠 Interested in problem solving and continuous learning
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,mysql,git,github,vscode"/>
-
-</p>
-
-### Programming Languages
-- Python
-- JavaScript
-- SQL
-
-### Frontend
-- HTML5
-- CSS3
-- React.js (Learning)
-
-### Database
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-
----
-
-# 🚀 Featured Projects
-
-## ♻️ Sharly – Digital Recycling & Resale Marketplace
-
-A MERN Stack project that promotes sustainable living by allowing users to donate recyclable items, earn reward coins, and redeem them while purchasing eco-friendly products.
-
-### Key Features
-- User Authentication
-- Reward Coin System
-- Product Listing
-- Secure Database
-- Responsive UI
-
----
-
-## 🌐 Personal Portfolio Website
-
-A responsive portfolio website showcasing my projects, technical skills, education, and achievements.
-
----
-
-## 📂 More Projects
-
-Explore all my repositories here:
-
-👉 https://github.com/BinitaBiswas
-
----
-
-# 📚 Currently Learning
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Data Structures & Algorithms (Python)
-
----
-
-# 📜 Core Skills
-
-✔ Python
-
-✔ SQL
-
-✔ HTML5
-
-✔ CSS3
-
-✔ JavaScript
-
-✔ React.js
-
-✔ Git & GitHub
-
-✔ Problem Solving
-
----
-
-# 🌐 Connect With Me
+### 💻 Programming Languages
 
 <p>
-
-<a href=//https://linkedin.com/in/contactbinitabiswas>
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your-binitabiswas412@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/username=BinitaBiswas">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=python,js"/>
 </p>
+
+**SQL**
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+---
+
+## 🚀 Featured Projects
+
+### ♻️ Sharly – Digital Recycling & Resale Marketplace
+
+A MERN Stack web application focused on sustainable living by connecting
+recycling, resale, and eco-friendly shopping in one platform.
+
+#### ✨ Key Features
+
+- 🔐 User Authentication
+- 🪙 Reward Coin System
+- ♻️ Recycling & Donation System
+- 🛍️ Product Listing
+- 🛒 Eco-friendly Product Purchasing
+- 🗄️ Database Integration
+- 📱 Responsive User Interface
+
+**Tech Stack:** MongoDB • Express.js • React.js • Node.js
 
 ---
 
-# 📈 GitHub Stats
+### 🌐 Personal Portfolio Website
 
-<p align="center"> 
+A responsive personal portfolio website designed to showcase my:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BinitaBiswas&show_icons=true&theme=tokyonight"/>
+- 💻 Technical Skills
+- 🚀 Projects
+- 🎓 Education
+- 🏆 Achievements
+- 📫 Contact Information
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinitaBiswas&layout=compact&theme=tokyonight"/>
+**Tech Stack:** HTML • CSS • JavaScript
 
+---
+
+## 📚 Currently Learning
+
+- ⚛️ React.js
+- 🟢 Node.js
+- 🚂 Express.js
+- 🍃 MongoDB
+- 🧩 Data Structures & Algorithms
+- 🐍 DSA with Python
+- 🌐 Full Stack Web Development
+
+---
+
+## 💡 Core Skills
+
+| Category | Skills |
+|---|---|
+| Programming | Python, JavaScript, SQL |
+| Frontend | HTML5, CSS3, JavaScript, React.js |
+| Backend | Node.js, Express.js |
+| Database | MySQL, MongoDB |
+| Tools | Git, GitHub, VS Code |
+| Soft Skills | Problem Solving, Communication, Teamwork |
+
+---
+
+## 🎯 Career Objective
+
+I am looking for opportunities where I can contribute to real-world software
+projects, strengthen my development skills, work with experienced teams, and
+grow as a Software Developer.
+
+---
+
+## 📊 GitHub Activity
+
+I regularly work on personal projects, practice programming, and explore new
+technologies to improve my development skills.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BinitaBiswas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BinitaBiswas&theme=tokyonight"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinitaBiswas&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BinitaBiswas&theme=tokyonight&margin-w=10&margin-h=10"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BinitaBiswas&theme=tokyo-night&hide_border=true&radius=10"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## 🤝 Let's Connect
 
+I'm always open to connecting with developers, recruiters, and people working
+on interesting technology projects.
+
+### 📧 Email
+**binitabiswas412@gmail.com**
+
+### 💼 LinkedIn
+**Binita Biswas**
+
+### 💻 GitHub
+**Binita Biswas**
+
+---
+
+## ⭐ Explore My Repositories
+
+Check out my repositories to see my latest projects, experiments, and learning journey.
+
+---
+
+### 💙 Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories and connect with me.
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BinitaBiswas&theme=tokyo-night"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
 </p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! Let's connect and build something amazing together.
-</h3>
-
-<!--
-**BinitaBiswas/BinitaBiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
