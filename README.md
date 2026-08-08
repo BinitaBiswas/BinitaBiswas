@@ -136,14 +136,14 @@ grow as a Software Developer.
 I regularly work on personal projects, practice programming, and explore new
 technologies to improve my development skills.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BinitaBiswas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinitaBiswas&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BinitaBiswas&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BinitaBiswas&theme=tokyonight&hide_border=true" />
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BinitaBiswas&theme=tokyo-night&hide_border=true&radius=10"/>
 </p>
@@ -159,11 +159,12 @@ on interesting technology projects.
 **binitabiswas412@gmail.com**
 
 ### 💼 LinkedIn
-**Binita Biswas**
+
+🔗 **[Binita Biswas](https://linkedin.com/in/contactbinitabiswas)**
 
 ### 💻 GitHub
-**Binita Biswas**
 
+🔗 **[Binita Biswas](https://github.com/BinitaBiswas)**
 ---
 
 ## ⭐ Explore My Repositories
