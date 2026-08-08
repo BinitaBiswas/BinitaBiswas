@@ -136,7 +136,7 @@ grow as a Software Developer.
 I regularly work on personal projects, practice programming, and explore new
 technologies to improve my development skills.
 
-## 📊 GitHub Activity
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BinitaBiswas&show_icons=true&theme=tokyonight&hide_border=true" />
