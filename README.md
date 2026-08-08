@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Binita%20Biswas&fontSize=55&fontAlignY=35&animation=twinkling&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
 </p>
 # 👋 Hi, I'm Binita Biswas
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BinitaBiswas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ### 👩‍💻 Software Developer | Full Stack Developer
 <p align="center">
@@ -138,9 +141,7 @@ technologies to improve my development skills.
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BinitaBiswas&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BinitaBiswas&theme=tokyonight&hide_border=true" />
 </p>
